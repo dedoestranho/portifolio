@@ -9,3 +9,8 @@ box-sizing: border-box; /*cria uma caixa ivisível para o corpo do site*/
     background-color: lightpink; /*cor do fundo do topo do site*/
     height: 15vh; /*tamanho do topo do site 15% da tela*/
 }
+
+ .conteudo{
+    background-color: linen;
+    height: 100vh;
+ }
